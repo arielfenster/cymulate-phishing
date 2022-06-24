@@ -13,7 +13,7 @@ class EmailService {
 			host: 'gmail',
 			auth: {
 				user: 'arielfenster1610@gmail.com',
-				pass: 'fashizelmanizel2',
+				pass: 'ariel123',
 			},
 		});
 	}
